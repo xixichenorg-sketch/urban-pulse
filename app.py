@@ -29,9 +29,9 @@ except Exception as e:
     violations_df = pd.DataFrame()
 
 
-@app.get("/")
+@app.get("/", response_class=HTMLResponse)
 def home():
-    return {"message": "Hello Xixi, your hackathon app is running!"}
+    return page()
 
 
 @app.get("/plan")
