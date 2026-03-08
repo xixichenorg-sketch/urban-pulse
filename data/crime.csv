@@ -1,0 +1,21 @@
+type,address,latitude,longitude,date
+Theft,123 Main St,32.3668,-86.3000,2024-03-01
+Assault,456 Oak Ave,32.3680,-86.3020,2024-03-02
+Burglary,789 Pine Rd,32.3650,-86.2990,2024-03-03
+Vehicle Break-in,321 River St,32.3671,-86.3015,2024-03-04
+Robbery,654 Hill St,32.3692,-86.3033,2024-03-05
+Theft,215 Washington Ave,32.3662,-86.2998,2024-03-06
+Burglary,81 Carter Hill Rd,32.3647,-86.3041,2024-03-07
+Assault,900 Madison Ave,32.3688,-86.3050,2024-03-08
+Vehicle Break-in,410 Cloverdale Rd,32.3652,-86.3022,2024-03-09
+Robbery,177 Ann St,32.3673,-86.2981,2024-03-10
+Theft,522 Hull St,32.3664,-86.3014,2024-03-11
+Burglary,220 Forest Ave,32.3691,-86.3029,2024-03-12
+Vehicle Break-in,311 Bell Rd,32.3710,-86.2954,2024-03-13
+Assault,455 Vaughn Rd,32.3702,-86.2969,2024-03-14
+Robbery,808 Atlanta Hwy,32.3721,-86.2942,2024-03-15
+Theft,150 Commerce St,32.3670,-86.2987,2024-03-16
+Burglary,990 Narrow Lane Rd,32.3638,-86.3036,2024-03-17
+Vehicle Break-in,244 Dexter Ave,32.3678,-86.3009,2024-03-18
+Assault,613 Mulberry St,32.3659,-86.3045,2024-03-19
+Robbery,719 Highland Ave,32.3666,-86.2972,2024-03-20

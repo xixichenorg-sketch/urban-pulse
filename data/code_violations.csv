@@ -1,0 +1,6 @@
+type,address,latitude,longitude,date,status
+Abandoned House,222 Cedar St,32.3690,-86.3040,2024-03-02,Open
+Illegal Dumping,333 Maple St,32.3645,-86.2985,2024-03-03,Open
+Overgrown Lot,111 Elm St,32.3675,-86.3010,2024-03-01,Under Review
+Unsafe Structure,444 Birch St,32.3662,-86.3028,2024-03-04,Open
+Trash Overflow,555 Walnut St,32.3683,-86.3009,2024-03-05,Closed
